@@ -34,7 +34,7 @@ namespace Termin10Primer01
         }
         public double IzracunajObim()
         {
-            return x + y;
+            return x + y + z;
         }
     }
 }
